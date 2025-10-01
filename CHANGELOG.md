@@ -1,5 +1,8 @@
 # Change Log
 
+## 12
+* Added GNOME 49 support.
+
 ## 11
 * Fixed deprecated warning.
 
